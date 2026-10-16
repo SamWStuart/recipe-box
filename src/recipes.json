@@ -1,0 +1,924 @@
+[
+  {
+    "id": "zaatar-pork-tenderloin",
+    "title": "Za'atar pork tenderloin",
+    "category": "Main",
+    "protein": "Pork",
+    "servings": 4,
+    "time": "40 min",
+    "tags": [
+      "kid-approved",
+      "leftover-friendly",
+      "no raw onion"
+    ],
+    "summary": "Sear two tenderloins, finish in the oven with a za'atar crust. Save the second for wraps.",
+    "ingredients": [
+      {
+        "q": 2,
+        "u": "",
+        "i": "pork tenderloins (1 to 1.25 lb each)"
+      },
+      {
+        "q": null,
+        "u": "",
+        "i": "salt and pepper"
+      },
+      {
+        "q": 1.5,
+        "u": "tbsp",
+        "i": "olive oil, for searing"
+      },
+      {
+        "q": 2,
+        "u": "tbsp",
+        "i": "Dijon mustard or olive oil, to help the za'atar stick"
+      },
+      {
+        "q": 3.5,
+        "u": "tbsp",
+        "i": "za'atar"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 425°F.",
+      "Pat the pork dry and season with salt and Za'atar, let rest in fridge for 2-4hrs if possible.",
+      "Heat the oil in a large oven-safe skillet over medium-high. Sear one tenderloin on all sides, about 6 to 8 minutes, then move it to a baking sheet. Sear the second the same way and set it on the sheet.",
+      "Roast 10 to 15 minutes, until the thickest part reads 145°F.",
+      "Rest 5 to 10 minutes before slicing.",
+      "Refrigerate the second tenderloin within 2 hours. Cooked pork keeps 3 to 4 days."
+    ],
+    "notes": "Searing one at a time keeps the pan hot and uncrowded. Both can wait on the same baking sheet for a few minutes. Za'atar can scorch during searing, ok to turn down pan temp.",
+    "pairs": [
+      {
+        "id": "roasted-carrots",
+        "why": "Roasts at the same 425°F, so use a separate oven rack."
+      },
+      {
+        "id": "yogurt-flatbread",
+        "why": "Warm flatbread to eat the sliced pork in."
+      },
+      {
+        "id": "cucumber-tomato-parsley-salad",
+        "why": "A cool, mild salad to balance the za'atar."
+      },
+      {
+        "id": "pork-flatbread-wraps",
+        "why": "Save the second tenderloin for wraps the next night."
+      }
+    ]
+  },
+  {
+    "id": "yogurt-flatbread",
+    "title": "Yogurt flatbread",
+    "category": "Bread",
+    "protein": "None",
+    "servings": 16,
+    "servingsLabel": "flatbreads",
+    "time": "45 min + rest",
+    "tags": [
+      "make-ahead",
+      "kid-approved"
+    ],
+    "summary": "Double batch makes 16. Cook half the first night and refrigerate the rest of the dough.",
+    "ingredients": [
+      {
+        "q": 4,
+        "u": "cups",
+        "i": "all-purpose flour (500 g), plus extra for rolling"
+      },
+      {
+        "q": 2,
+        "u": "cups",
+        "i": "plain Greek yogurt"
+      },
+      {
+        "q": 4,
+        "u": "tsp",
+        "i": "baking powder"
+      },
+      {
+        "q": 2,
+        "u": "tsp",
+        "i": "salt"
+      },
+      {
+        "q": 2.5,
+        "u": "tbsp",
+        "i": "olive oil, plus more for brushing"
+      }
+    ],
+    "steps": [
+      "Mix the flour, baking powder and salt. Then stir in the yogurt and oil until a shaggy dough forms.",
+      "Knead 3 to 5 minutes until smooth and slightly tacky. Add flour only if it is very sticky.",
+      "Cover and rest 20 to 30 minutes.",
+      "Divide into 16 balls. Keep 8 for tonight and refrigerate the rest in a covered, lightly oiled container (good for 2 to 3 days). Take them out about 30 minutes before rolling.",
+      "Roll thin, about 1/8 inch.",
+      "Cook in a very hot, dry cast-iron pan over medium-high, 1 to 2 minutes per side, until puffed with charred spots.",
+      "Brush with olive oil and stack in a towel to stay soft."
+    ],
+    "notes": "A cooler pan dries the dough out before it puffs. If the rounds come out stiff, roll thinner and heat the pan more. Rested dough rolls out thinner and puffs better. Make a double batch so there are leftovers for the next day.",
+    "pairs": [
+      {
+        "id": "zaatar-pork-tenderloin",
+        "why": "Tuck sliced pork into warm flatbread."
+      },
+      {
+        "id": "pork-flatbread-wraps",
+        "why": "Use the refrigerated dough for the next night's wraps."
+      },
+      {
+        "id": "cucumber-tomato-parsley-salad",
+        "why": "Pile it on, or serve alongside."
+      }
+    ]
+  },
+  {
+    "id": "roasted-carrots",
+    "title": "Roasted carrots",
+    "category": "Side",
+    "protein": "None",
+    "servings": 4,
+    "time": "35 min",
+    "tags": [
+      "kid-approved",
+      "no raw onion"
+    ],
+    "summary": "Browned-edge carrots with olive oil, optional cumin and honey.",
+    "ingredients": [
+      {
+        "q": 1.75,
+        "u": "lb",
+        "i": "carrots, peeled and cut into sticks or halved lengthwise"
+      },
+      {
+        "q": 1.5,
+        "u": "tbsp",
+        "i": "olive oil"
+      },
+      {
+        "q": null,
+        "u": "",
+        "i": "salt and pepper"
+      },
+      {
+        "q": 0.5,
+        "u": "tsp",
+        "i": "cumin (optional)"
+      },
+      {
+        "q": null,
+        "u": "",
+        "i": "honey and chopped parsley, to finish (optional)"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 425°F.",
+      "Toss the carrots with the oil and seasonings.",
+      "Spread on a sheet pan without crowding.",
+      "Roast 25 to 30 minutes, flipping once, until browned at the edges."
+    ],
+    "notes": "If the pork is in the oven at the same temperature, put the carrots on a separate rack.",
+    "pairs": [
+      {
+        "id": "zaatar-pork-tenderloin",
+        "why": "A natural side: same oven temperature."
+      },
+      {
+        "id": "pork-flatbread-wraps",
+        "why": "Leftover carrots are good tucked into wraps."
+      }
+    ]
+  },
+  {
+    "id": "cucumber-tomato-parsley-salad",
+    "title": "Cucumber-tomato-parsley salad",
+    "category": "Salad",
+    "protein": "None",
+    "servings": 4,
+    "time": "10 min",
+    "tags": [
+      "fresh",
+      "no raw onion"
+    ],
+    "summary": "A mild, onion-free salad with a simple red wine vinegar dressing.",
+    "ingredients": [
+      {
+        "q": 2,
+        "u": "",
+        "i": "cucumbers, diced"
+      },
+      {
+        "q": 2.5,
+        "u": "",
+        "i": "tomatoes, diced"
+      },
+      {
+        "q": 0.5,
+        "u": "cup",
+        "i": "chopped parsley"
+      },
+      {
+        "q": 3,
+        "u": "tbsp",
+        "i": "olive oil"
+      },
+      {
+        "q": 1,
+        "u": "tbsp",
+        "i": "red wine vinegar"
+      },
+      {
+        "q": 0.5,
+        "u": "tsp",
+        "i": "dried oregano"
+      },
+      {
+        "q": null,
+        "u": "",
+        "i": "pinch of salt"
+      }
+    ],
+    "steps": [
+      "Whisk the oil, vinegar, salt and oregano.",
+      "Toss with the cucumbers, tomatoes and parsley."
+    ],
+    "notes": "Add lemon to your own portion if you want it brighter. Save leftovers for wraps.",
+    "pairs": [
+      {
+        "id": "zaatar-pork-tenderloin",
+        "why": "A light side for the pork."
+      },
+      {
+        "id": "pork-flatbread-wraps",
+        "why": "Leftover salad doubles as the wrap filling."
+      },
+      {
+        "id": "yogurt-flatbread",
+        "why": "Serve with warm flatbread."
+      }
+    ]
+  },
+  {
+    "id": "greek-turkey-meatballs",
+    "title": "Turkey-parmesan meatballs with pasta",
+    "category": "Main",
+    "protein": "Turkey",
+    "servings": 4,
+    "time": "45 min",
+    "tags": [
+      "kid-approved",
+      "make-ahead"
+    ],
+    "summary": "Greek-style baked meatballs with a little cinnamon, simmered in tomato sauce over short pasta.",
+    "ingredients": [
+      {
+        "q": 1,
+        "u": "lb",
+        "i": "ground turkey (not extra-lean)"
+      },
+      {
+        "q": 0.5,
+        "u": "cup",
+        "i": "breadcrumbs or panko"
+      },
+      {
+        "q": 0.25,
+        "u": "cup",
+        "i": "milk or plain yogurt"
+      },
+      {
+        "q": 1,
+        "u": "",
+        "i": "egg"
+      },
+      {
+        "q": 0.33,
+        "u": "cup",
+        "i": "grated parmesan, plus extra to serve"
+      },
+      {
+        "q": 2,
+        "u": "",
+        "i": "garlic cloves, finely grated"
+      },
+      {
+        "q": 0.25,
+        "u": "cup",
+        "i": "chopped parsley"
+      },
+      {
+        "q": 0.5,
+        "u": "tsp",
+        "i": "dried oregano"
+      },
+      {
+        "q": 0.25,
+        "u": "tsp",
+        "i": "cinnamon"
+      },
+      {
+        "q": 0.75,
+        "u": "tsp",
+        "i": "salt, plus pepper"
+      },
+      {
+        "q": 2,
+        "u": "tbsp",
+        "i": "finely grated onion (optional, cooks through)"
+      },
+      {
+        "q": 3,
+        "u": "cups",
+        "i": "tomato sauce (leftover cinnamon-tinged sauce, or canned crushed tomatoes with garlic, a pinch of cinnamon, salt and olive oil)"
+      },
+      {
+        "q": 12,
+        "u": "oz",
+        "i": "rigatoni or penne"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 425°F and line a sheet pan with parchment or foil.",
+      "Soak the breadcrumbs in the milk for a few minutes, then add everything else except the sauce and pasta. Mix gently until just combined.",
+      "Roll into about 20 balls, roughly 1.5 inches, and space them on the pan. You can do this a day ahead and refrigerate them covered.",
+      "Bake 15 to 18 minutes, until browned and 165°F inside.",
+      "Warm the sauce in a wide pan and simmer the meatballs in it for 5 to 10 minutes.",
+      "Cook the pasta. Reserve a little pasta water to loosen the sauce.",
+      "Serve over pasta with extra parmesan and parsley."
+    ],
+    "notes": "Baked extras freeze well. If you need to stretch the sauce, simmer canned crushed tomatoes with a garlic clove and a pinch of cinnamon for 10 minutes.",
+    "pairs": [
+      {
+        "id": "arugula-apple-salad",
+        "why": "A fresh, peppery salad to lighten the pasta."
+      }
+    ]
+  },
+  {
+    "id": "arugula-apple-salad",
+    "title": "Arugula-apple salad",
+    "category": "Salad",
+    "protein": "None",
+    "servings": 4,
+    "time": "10 min",
+    "tags": [
+      "fresh",
+      "no raw onion",
+      "fall"
+    ],
+    "summary": "Peppery arugula with crisp sweet apple, parmesan and toasted nuts in a mild honey-Dijon dressing.",
+    "ingredients": [
+      {
+        "q": 5,
+        "u": "oz",
+        "i": "arugula"
+      },
+      {
+        "q": 1,
+        "u": "",
+        "i": "Honeycrisp, Pink Lady or Fuji apple, sliced thin"
+      },
+      {
+        "q": 0.25,
+        "u": "cup",
+        "i": "shaved parmesan"
+      },
+      {
+        "q": 0.25,
+        "u": "cup",
+        "i": "toasted walnuts, hazelnut or pecans"
+      },
+      {
+        "q": 3,
+        "u": "tbsp",
+        "i": "olive oil"
+      },
+      {
+        "q": 1,
+        "u": "tbsp",
+        "i": "apple cider vinegar"
+      },
+      {
+        "q": 1,
+        "u": "tsp",
+        "i": "honey"
+      },
+      {
+        "q": 1,
+        "u": "tsp",
+        "i": "Dijon mustard"
+      },
+      {
+        "q": null,
+        "u": "",
+        "i": "salt and pepper"
+      }
+    ],
+    "steps": [
+      "Whisk the oil, vinegar, honey, Dijon, salt and pepper.",
+      "Slice the apple thin right before serving so it stays crisp.",
+      "Toss the arugula with the dressing, then top with apple, parmesan and nuts."
+    ],
+    "notes": "The honey and Dijon soften the arugula's bite and keep it mild for the family.",
+    "pairs": [
+      {
+        "id": "greek-turkey-meatballs",
+        "why": "A good fresh side for the meatballs and pasta."
+      }
+    ]
+  },
+  {
+    "id": "pork-flatbread-wraps",
+    "title": "Pork flatbread wraps with garlic-yogurt sauce",
+    "category": "Main",
+    "protein": "Pork",
+    "servings": 4,
+    "time": "20 min",
+    "tags": [
+      "kid-approved",
+      "leftover night",
+      "no raw onion"
+    ],
+    "summary": "Leftover za'atar pork, fresh flatbread and a garlicky yogurt sauce. About 15 minutes if the prep is done.",
+    "ingredients": [
+      {
+        "q": 1,
+        "u": "",
+        "i": "leftover za'atar pork tenderloin, sliced 1/4 inch thick",
+        "link": "zaatar-pork-tenderloin"
+      },
+      {
+        "q": 8,
+        "u": "",
+        "i": "flatbreads (see Yogurt flatbread)",
+        "link": "yogurt-flatbread"
+      },
+      {
+        "q": 1,
+        "u": "cup",
+        "i": "plain Greek yogurt"
+      },
+      {
+        "q": 1,
+        "u": "",
+        "i": "small garlic clove, finely grated"
+      },
+      {
+        "q": 1,
+        "u": "tbsp",
+        "i": "olive oil"
+      },
+      {
+        "q": 1,
+        "u": "tbsp",
+        "i": "chopped parsley"
+      },
+      {
+        "q": null,
+        "u": "",
+        "i": "salt and a very small squeeze of lemon"
+      },
+      {
+        "q": 2,
+        "u": "tbsp",
+        "i": "grated cucumber, squeezed dry (optional)"
+      },
+      {
+        "q": null,
+        "u": "",
+        "i": "sliced cucumber, tomato and parsley, to fill"
+      }
+    ],
+    "steps": [
+      "Stir together the yogurt, garlic, oil, parsley, salt and lemon. Refrigerate until dinner. It improves as it sits.",
+      "Take the dough out of the fridge about 30 minutes ahead, roll thin, and cook the flatbreads in a hot dry cast-iron pan.",
+      "Warm the sliced pork in a skillet over medium-low with a little olive oil and a splash of water or broth, 2 to 3 minutes, just until heated through. Or serve at room temperature.",
+      "Spread sauce on a flatbread, add pork, then cucumber, tomato and parsley. Roasted carrots and greens are good additions."
+    ],
+    "notes": "For a young eater, set everything out separately and let each person build their own wrap. Make a double batch of flatbread so there is enough for next-day leftovers.",
+    "pairs": [
+      {
+        "id": "zaatar-pork-tenderloin",
+        "why": "Uses the leftover tenderloin."
+      },
+      {
+        "id": "yogurt-flatbread",
+        "why": "Uses the refrigerated dough."
+      },
+      {
+        "id": "roasted-carrots",
+        "why": "Add leftover carrots to the wraps."
+      },
+      {
+        "id": "cucumber-tomato-parsley-salad",
+        "why": "Leftover salad works as the filling."
+      }
+    ]
+  },
+  {
+    "id": "sesame-ginger-salmon-bowls",
+    "title": "Sesame-ginger salmon rice bowls",
+    "category": "Main",
+    "protein": "Salmon",
+    "servings": 4,
+    "time": "35 min",
+    "tags": [
+      "fresh",
+      "no raw onion"
+    ],
+    "summary": "Glazed baked salmon over rice with edamame, cucumber and avocado.",
+    "ingredients": [
+      {
+        "q": 3,
+        "u": "tbsp",
+        "i": "soy sauce"
+      },
+      {
+        "q": 1,
+        "u": "tbsp",
+        "i": "honey or maple syrup"
+      },
+      {
+        "q": 1,
+        "u": "tbsp",
+        "i": "rice vinegar"
+      },
+      {
+        "q": 1,
+        "u": "tbsp",
+        "i": "toasted sesame oil"
+      },
+      {
+        "q": 1,
+        "u": "tbsp",
+        "i": "grated fresh ginger"
+      },
+      {
+        "q": 1,
+        "u": "",
+        "i": "garlic clove, grated"
+      },
+      {
+        "q": 1.25,
+        "u": "lb",
+        "i": "salmon, in 4 portions"
+      },
+      {
+        "q": 1.5,
+        "u": "cups",
+        "i": "rice, uncooked"
+      },
+      {
+        "q": 1.5,
+        "u": "cups",
+        "i": "frozen shelled edamame"
+      },
+      {
+        "q": 1.5,
+        "u": "",
+        "i": "cucumbers, thinly sliced (dress with rice vinegar and a pinch of salt)"
+      },
+      {
+        "q": 1.5,
+        "u": "",
+        "i": "avocados, sliced"
+      },
+      {
+        "q": null,
+        "u": "",
+        "i": "sesame seeds, and optional scallion greens"
+      }
+    ],
+    "steps": [
+      "Whisk the glaze. Marinate the salmon in about half of it for 15 to 30 minutes and keep the rest for drizzling.",
+      "Start the rice. Cook the edamame per the package, 3 to 5 minutes, and drain.",
+      "Heat the oven to 425°F. Place the salmon skin-side down on a lined sheet pan with a little extra marinade.",
+      "Bake 10 to 14 minutes, until it flakes easily (125 to 130°F for medium, 145°F for fully cooked).",
+      "Simmer the remaining glaze 2 to 3 minutes until syrupy.",
+      "Build bowls with rice, edamame, cucumber and avocado, top with salmon, drizzle with glaze, and finish with sesame seeds."
+    ],
+    "notes": "The same glaze works on baked chicken thighs for anyone who is not sold on salmon.",
+    "pairs": []
+  },
+  {
+  "id": "browned-butter-rice-krispie-treats",
+  "title": "Browned Butter Rice Krispie Treats (Soft & Pliant)",
+  "category": "Side",
+  "protein": "None",
+  "servings": 12,
+  "servingsLabel": "treats",
+  "time": "80 min",
+  "tags": ["dessert", "snack"],
+  "summary": "Soft, gooey rice krispie treats with deep, nutty browned butter flavor, made with a two-phase marshmallow method so they stay pliant instead of hard and crunchy.",
+  "ingredients": [
+    { "q": 8, "u": "tbsp", "i": "unsalted butter (1 stick)" },
+    { "q": 10, "u": "cups", "i": "mini marshmallows from fresh bags, divided into two 5-cup portions" },
+    { "q": 1, "u": "tsp", "i": "kosher salt" },
+    { "q": 1, "u": "tsp", "i": "vanilla extract" },
+    { "q": 6, "u": "cups", "i": "Rice Krispies cereal, from a fresh box" },
+    { "q": 0.25, "u": "tsp", "i": "flaky sea salt, for finishing (optional)" }
+  ],
+  "steps": [
+    "Line a 9x13-inch pan with parchment paper, leaving overhang on the long sides, and lightly grease the parchment. Measure out all ingredients before you start, because the recipe moves fast once the marshmallows go in.",
+    "Melt the butter in a light-colored, heavy-bottomed pot over medium-low heat, swirling or stirring gently and constantly. It will foam first as the water cooks off; keep going for about 5 to 7 minutes total until the milk solids turn from white to golden to toasty amber and the smell changes from plain melted butter to nutty and caramel-like. Use a light-colored pot so you can see the color change, and do not walk away or turn up the heat to speed it up.",
+    "Remove the pot from the heat the moment it smells nutty and the solids look golden-brown, not dark brown. Residual heat keeps cooking the butter for another 20 to 30 seconds, so err on the lighter side. If it smells sharp or acrid it has burned and you need to start over. The pot stays off the burner for the rest of the recipe.",
+    "Add 5 cups of the mini marshmallows and the kosher salt to the warm butter and stir gently in the residual heat, only until the marshmallows are about halfway melted with plenty of distinct soft white lumps still visible.",
+    "Stop stirring as soon as the marshmallows are about half-melted. Do not keep stirring until the mixture is smooth, because that melts out the air in the marshmallows and makes the treats hard and dense once they cool.",
+    "Stir in the vanilla, then gently fold in the remaining 5 cups of mini marshmallows just until distributed. They should stay mostly whole to create gooey pockets in the finished treats.",
+    "Fold in the Rice Krispies in two additions with a spatula, mixing just until the cereal is coated. Do not stir vigorously, which crushes the cereal and pushes out air.",
+    "Transfer the mixture to the prepared pan and use a greased spatula, a greased butter wrapper, or lightly greased hands to press just enough to level it. Do not compact or pack it down, which is the most common cause of hard treats.",
+    "Sprinkle with the flaky sea salt if using, then let the treats cool uncovered at room temperature for about 1 hour. Do not refrigerate. Lift out with the parchment overhang and cut into squares with a lightly greased knife."
+  ],
+  "notes": "Best made the same day: for a 6 pm party, start around 2 to 3 pm so they finish cooling and cutting by about 4 pm. Butter was reduced from 10 to 8 tbsp because 10 tbsp made them greasy. Store at room temperature in an airtight container for up to 2 days; for transport, cover loosely and keep out of a cold cooler, since cold firms the marshmallow. If they firm up, microwave an individual treat for 5 to 10 seconds to soften. Most common ways to end up with hard treats: fully melting the marshmallows smooth, and pressing the mixture firmly into the pan.",
+  "pairs": []
+},
+{
+  "id": "classic-soft-pretzels",
+  "title": "Classic Soft Pretzels",
+  "category": "Bread",
+  "protein": "None",
+  "servings": 8,
+  "servingsLabel": "pretzels",
+  "time": "2 hr 15 min",
+  "tags": ["snack"],
+  "summary": "Chewy yeast-dough pretzels given a quick baking soda boil, then baked at 450°F until deep golden brown.",
+  "ingredients": [
+    { "q": 1.5, "u": "cups", "i": "warm water (about 110°F)" },
+    { "q": 2, "u": "tsp", "i": "granulated sugar" },
+    { "q": 2.25, "u": "tsp", "i": "active dry or instant yeast" },
+    { "q": 4.5, "u": "cups", "i": "all-purpose flour" },
+    { "q": 1.5, "u": "tsp", "i": "kosher salt, for the dough" },
+    { "q": 4, "u": "tbsp", "i": "unsalted butter, melted" },
+    { "q": 10, "u": "cups", "i": "water, for the baking soda bath" },
+    { "q": 0.5, "u": "cup", "i": "baking soda, for the bath" },
+    { "q": 1, "u": "", "i": "egg yolk, beaten with 1 tbsp water" },
+    { "q": 2, "u": "tbsp", "i": "coarse pretzel salt or flaky salt" }
+  ],
+  "steps": [
+    "Stir the sugar into the warm water, sprinkle in the yeast, and let it sit 5 to 10 minutes until foamy; instant yeast can go straight into the flour, but proofing it is a good check.",
+    "Mix the flour, kosher salt, and melted butter into the yeast mixture, then knead until smooth and elastic, about 5 minutes with a dough hook or 8 minutes by hand.",
+    "Place the dough in an oiled bowl, cover it, and let it rise in a warm spot for about 1 hour, until doubled.",
+    "Preheat the oven to 450°F and line two baking sheets with parchment, then divide the dough into 8 pieces, roll each into a 24-inch rope, and twist into a pretzel shape.",
+    "Bring the 10 cups of water to a boil in a wide pot and carefully stir in the baking soda, which will foam up.",
+    "Boil 2 to 3 pretzels at a time for 30 seconds each, flipping once, then lift them out with a slotted spatula onto the prepared sheets.",
+    "Brush the pretzels with the egg yolk mixture, sprinkle with the coarse salt, and bake for 12 to 15 minutes until deep golden brown, then cool a few minutes on a rack."
+  ],
+  "notes": "Either active dry or instant yeast works; instant may rise a little faster, so watch the dough instead of the clock. Serve warm with butter or mustard. For cinnamon-sugar pretzels, skip the coarse salt and toss in cinnamon sugar after brushing with melted butter.",
+  "pairs": []
+},
+{
+  "id": "mediterranean-spiced-beef-chickpea-bowls",
+  "title": "Mediterranean Spiced Beef & Chickpea Bowls",
+  "category": "Main",
+  "protein": "Beef",
+  "servings": 4,
+  "time": "35 min",
+  "tags": ["light","leftover-friendly"],
+  "summary": "Warm-spiced ground beef and chickpeas over pearl couscous with a crunchy cucumber-tomato salad and lemon-garlic yogurt sauce.",
+  "ingredients": [
+    { "q": 1, "u": "lb", "i": "ground beef" },
+    { "q": 2, "u": "tbsp", "i": "olive oil, divided, plus a drizzle for the couscous" },
+    { "q": 1, "u": "", "i": "red onion, divided (half diced, half thinly sliced)" },
+    { "q": 4, "u": "", "i": "garlic cloves, minced (divided)" },
+    { "q": 2, "u": "tsp", "i": "ground cumin" },
+    { "q": 1, "u": "tsp", "i": "smoked paprika" },
+    { "q": 1, "u": "tsp", "i": "ground coriander" },
+    { "q": 0.25, "u": "tsp", "i": "ground cinnamon" },
+    { "q": 1.5, "u": "tsp", "i": "salt, divided" },
+    { "q": 0.5, "u": "tsp", "i": "black pepper" },
+    { "q": 1, "u": "tbsp", "i": "tomato paste" },
+    { "q": 1, "u": "", "i": "can chickpeas (15 oz), drained and rinsed" },
+    { "q": 2, "u": "", "i": "lemons, divided" },
+    { "q": 1, "u": "cup", "i": "pearl couscous" },
+    { "q": 1.25, "u": "cups", "i": "water or broth" },
+    { "q": 1, "u": "cup", "i": "plain Greek yogurt" },
+    { "q": 1, "u": "", "i": "English cucumber, diced" },
+    { "q": 1.5, "u": "cups", "i": "cherry tomatoes, halved" },
+    { "q": 0.5, "u": "cup", "i": "fresh parsley, chopped, divided" },
+    { "q": 2, "u": "oz", "i": "crumbled feta" },
+    { "q": 0.25, "u": "cup", "i": "kalamata olives, halved (optional)" }
+  ],
+  "steps": [
+    "Toast the pearl couscous in a drizzle of olive oil in a small saucepan over medium heat for about 2 minutes, then add the water or broth and a pinch of salt, cover, and simmer for about 10 minutes until tender.",
+    "Stir together the Greek yogurt, 1 minced garlic clove, the juice of half a lemon, and a pinch of salt, then chill until serving.",
+    "Toss the thinly sliced half of the red onion with the cucumber, cherry tomatoes, half the parsley, the olives, 1 tbsp olive oil, the juice of half a lemon, and a pinch of salt.",
+    "Heat 1 tbsp olive oil in a large skillet over medium-high heat, add the ground beef and the diced half of the onion, and cook for about 8 minutes, breaking up the meat, until browned; drain off any excess fat.",
+    "Add the remaining 3 garlic cloves, the cumin, smoked paprika, coriander, cinnamon, black pepper, about 1 tsp salt, and the tomato paste, and stir for about 1 minute until fragrant.",
+    "Stir in the chickpeas with a splash of water and cook for about 4 minutes until heated through and lightly crisped, then finish with the juice of the second lemon and the remaining parsley.",
+    "Divide the couscous among bowls and top with the beef mixture, the salad, a spoonful of yogurt sauce, and the feta."
+  ],
+  "notes": "Fine couscous works for a quicker version: pour 1.25 cups boiling water over 1 cup couscous, cover for 5 minutes, and fluff. For a lighter bowl, serve over greens or half greens and half couscous. Also works stuffed into warm pita. Leftovers keep well for lunch if you store the salad and sauce separately.",
+  "pairs": [
+    { "id": "yogurt-flatbread", "why": "Good for scooping or wrapping the beef and salad" }
+  ]
+},
+{
+  "id": "lemon-garlic-braised-chicken-mushrooms-carrots",
+  "title": "Lemon-Garlic Braised Chicken with Mushrooms & Carrots over Basmati",
+  "category": "Main",
+  "protein": "Chicken",
+  "servings": 4,
+  "time": "45 min (plus 2–3 hr dry brine)",
+  "tags": ["leftover-friendly", "no raw onion", "fall"],
+  "summary": "Dry-brined chicken breasts braised in a buttery lemon-garlic pan sauce with mushrooms and carrots, served over basmati rice with lightly dressed arugula.",
+  "ingredients": [
+    { "q": 1.5, "u": "lb", "i": "boneless skinless chicken breasts" },
+    { "q": 2, "u": "tsp", "i": "kosher salt, divided (1.5 tsp for the brine, 0.5 tsp for the vegetables)" },
+    { "q": 1, "u": "tsp", "i": "sweet paprika" },
+    { "q": 1, "u": "tsp", "i": "dried thyme" },
+    { "q": 2, "u": "", "i": "lemons (1 zested for the brine, 1 for juicing and wedges)" },
+    { "q": 2, "u": "tbsp", "i": "olive oil, divided, plus a drizzle for the arugula" },
+    { "q": null, "u": "", "i": "leftover cooked bacon, chopped (optional)" },
+    { "q": 1, "u": "", "i": "shallot, finely minced" },
+    { "q": 3, "u": "", "i": "carrots, sliced into coins" },
+    { "q": 8, "u": "oz", "i": "mushrooms, sliced" },
+    { "q": 3, "u": "", "i": "garlic cloves, minced" },
+    { "q": 1, "u": "tbsp", "i": "all-purpose flour" },
+    { "q": 1.5, "u": "cups", "i": "chicken broth" },
+    { "q": 1, "u": "tsp", "i": "honey" },
+    { "q": 2, "u": "tbsp", "i": "butter" },
+    { "q": 1.5, "u": "cups", "i": "basmati rice" },
+    { "q": 2.25, "u": "cups", "i": "water, for the rice" },
+    { "q": 3, "u": "cups", "i": "arugula" },
+    { "q": null, "u": "", "i": "shaved Parmesan, for the arugula (optional)" }
+  ],
+  "steps": [
+    "Pound the chicken breasts to an even 3/4-inch thickness and pat dry.",
+    "Mix 1.5 tsp kosher salt, the paprika, thyme, and the zest of 1 lemon; rub all over the chicken and refrigerate uncovered on a plate for 2 to 3 hours.",
+    "About 45 minutes before dinner, rinse the basmati rice until the water runs mostly clear, then bring the water and a pinch of salt to a boil, add the rice, cover, and simmer on low for 15 minutes; turn off the heat and let it steam, covered, for 10 minutes.",
+    "If using bacon, crisp it briefly in a large lidded skillet over medium heat, then remove it and set aside, leaving the fat in the pan.",
+    "Pat the chicken dry again, add 1 tbsp olive oil to the skillet over medium-high heat, and sear the chicken until golden, 3 to 4 minutes per side (it will not be cooked through); move to a plate.",
+    "Lower the heat to medium, add the remaining 1 tbsp olive oil, the shallot, carrots, mushrooms, and 0.5 tsp salt, and cook, stirring often and scraping up browned bits, until the mushrooms are golden, about 8 minutes.",
+    "Add the garlic and cook 30 seconds, sprinkle in the flour and stir 1 minute, then pour in the chicken broth and honey and bring to a simmer.",
+    "Nestle the chicken back into the pan with any juices, cover, and simmer gently until it reaches 160°F inside, 8 to 10 minutes; move the chicken to a plate to rest for 5 minutes (it will climb to 165°F).",
+    "While the chicken rests, reduce the sauce for a few minutes, swirl in the butter, then add lemon juice a teaspoon at a time, tasting as you go, until it is bright but not sharp.",
+    "Toss the arugula with a drizzle of olive oil, a pinch of salt, and Parmesan if using.",
+    "Slice the chicken and serve over the rice with the sauce and vegetables, sprinkle the bacon on top, and put the arugula and lemon wedges on the side."
+  ],
+  "notes": "Add the lemon juice at the end so the reduced sauce doesn't get too tart, and serve lemon wedges at the table for anyone who wants more. Keep the bacon out of the sauce; it turns chewy when simmered, so sprinkle it on top. For a heartier pot, add parsnips or butternut squash cut small with the carrots, plus 0.5 cup extra broth. Basmati is easier to digest than farro the night before a long run. Leftovers reheat well.",
+  "pairs": []
+},
+{
+  "id": "carrot-ginger-soup",
+  "title": "Carrot Ginger Soup",
+  "category": "Main",
+  "protein": "None",
+  "servings": 4,
+  "time": "40 min",
+  "tags": ["fall", "make-ahead", "leftover-friendly", "light"],
+  "summary": "A smooth, bright carrot soup simmered in chicken broth with onion, garlic, fresh ginger, and a squeeze of lemon.",
+  "ingredients": [
+    { "q": 2, "u": "tbsp", "i": "butter or oil" },
+    { "q": 1, "u": "", "i": "onion, chopped" },
+    { "q": 2, "u": "", "i": "garlic cloves, minced" },
+    { "q": 1, "u": "tbsp", "i": "fresh ginger, grated, plus up to 1 tbsp more to taste" },
+    { "q": 0.25, "u": "tsp", "i": "ground cumin or coriander (optional, or a little cinnamon for a slightly sweet soup)" },
+    { "q": 1, "u": "lb", "i": "carrots, chopped" },
+    { "q": 3, "u": "cups", "i": "chicken broth, plus up to 1 more cup to simmer in or thin the soup" },
+    { "q": 0.5, "u": "", "i": "lemon, juiced" },
+    { "q": null, "u": "", "i": "salt and pepper" }
+  ],
+  "steps": [
+    "Melt the butter or heat the oil in a large pot over medium heat, add the chopped onion, and sauté for 5 minutes until soft.",
+    "Add the garlic, ginger, and ground spice and cook for 1 minute more, stirring so they bloom in the fat without browning.",
+    "Add the chopped carrots and 3 to 4 cups of chicken broth, bring to a boil, then reduce to a simmer, cover, and cook for about 20 minutes until the carrots are very tender.",
+    "Blend the soup until smooth with an immersion blender, or work in batches in a countertop blender and vent the lid so steam can escape.",
+    "Thin with more broth or water to your preferred thickness, then stir in the lemon juice and season with salt and pepper.",
+    "Taste and adjust, adding more lemon or ginger if it needs a lift."
+  ],
+  "notes": "Start with less ginger and add more after blending, since the flavor gets stronger as it simmers. Add the lemon gradually and taste as you go. A splash of cream or coconut milk at the end makes it richer. Pan-fried sliced chicken thighs and a romaine salad round it out as a meal. Keeps well in the fridge and freezes well.",
+  "pairs": [
+    { "id": "yogurt-flatbread", "why": "Warm flatbread is perfect for dunking in the soup." }
+  ]
+},
+{
+  "id": "eggs-black-beans-air-fryer-potatoes",
+  "title": "Eggs and Black Beans with Air Fryer Potatoes",
+  "category": "Main",
+  "protein": "Vegetarian",
+  "servings": 2,
+  "time": "30 min",
+  "tags": ["breakfast", "quick", "easy"],
+  "summary": "A simple breakfast bowl of seasoned black beans, crispy air fryer potatoes, and eggs finished with hot sauce or salsa.",
+  "ingredients": [
+    { "q": null, "u": "", "i": "eggs, fried or scrambled" },
+    { "q": null, "u": "", "i": "canned black beans, drained but not rinsed" },
+    { "q": null, "u": "", "i": "water, a splash for simmering the beans" },
+    { "q": null, "u": "", "i": "ground cumin, a pinch" },
+    { "q": null, "u": "", "i": "garlic powder, for the beans and the potatoes" },
+    { "q": null, "u": "", "i": "lime juice or hot sauce, a squeeze or dash for the beans" },
+    { "q": null, "u": "", "i": "potatoes, cut into 3/4-inch cubes" },
+    { "q": null, "u": "", "i": "oil, a little, for tossing the potatoes" },
+    { "q": null, "u": "", "i": "paprika" },
+    { "q": null, "u": "", "i": "salt" },
+    { "q": null, "u": "", "i": "hot sauce, salsa, or avocado, for topping" },
+    { "q": null, "u": "", "i": "shredded cheese and cilantro (optional)" },
+    { "q": null, "u": "", "i": "warm tortillas (optional, for breakfast tacos)" }
+  ],
+  "steps": [
+    "Cut the potatoes into 3/4-inch cubes and soak them in water for 10 minutes, then dry them very well for crispier edges.",
+    "Toss the potatoes with a little oil, salt, paprika, and garlic powder, then air fry at 400°F for 15 to 20 minutes, shaking the basket halfway through.",
+    "While the potatoes cook, simmer the drained black beans in a small pan for 5 minutes with a splash of water, a pinch of cumin, garlic powder, salt, and a squeeze of lime or a dash of hot sauce.",
+    "Mash about a third of the beans with a spoon so they turn creamy and hold together.",
+    "Cook the eggs fried (a runny yolk works as a sauce over the beans) or scrambled soft over low heat.",
+    "Spoon the beans into a bowl, add the potatoes, top with the eggs, and finish with hot sauce, salsa, or avocado, plus cheese and cilantro if you like."
+  ],
+  "notes": "Start the potatoes first so they finish at the same time as the beans and eggs. Serve with a warm tortilla on the side, or fold everything into a breakfast taco.",
+  "pairs": []
+},
+{
+  "id": "seasoned-black-beans",
+  "title": "Seasoned Black Beans",
+  "category": "Side",
+  "protein": "Vegetarian",
+  "servings": 2,
+  "time": "10 min",
+  "tags": ["quick", "easy"],
+  "summary": "Canned black beans simmered with cumin, garlic powder, and lime, then partly mashed for a creamy texture.",
+  "ingredients": [
+    { "q": null, "u": "", "i": "canned black beans, drained but not rinsed" },
+    { "q": null, "u": "", "i": "water, a splash for simmering" },
+    { "q": null, "u": "", "i": "ground cumin, a pinch" },
+    { "q": null, "u": "", "i": "garlic powder" },
+    { "q": null, "u": "", "i": "salt" },
+    { "q": null, "u": "", "i": "lime juice or hot sauce, a squeeze or dash" }
+  ],
+  "steps": [
+    "Add the drained black beans to a small pan with a splash of water, a pinch of cumin, garlic powder, and salt.",
+    "Simmer the beans over medium heat for 5 minutes, stirring occasionally.",
+    "Mash about a third of the beans with a spoon so they turn creamy and hold together.",
+    "Finish with a squeeze of lime or a dash of hot sauce and taste for salt."
+  ],
+  "notes": "Don't rinse the beans, since the canning liquid helps make them creamy. Works as a side for eggs, tacos, or rice, and as a base for breakfast bowls. Keeps in the fridge for a few days and reheats with a splash of water.",
+  "pairs": []
+},
+{
+  "id": "orecchiette-chicken-fennel-carrots",
+  "title": "Orecchiette with Chicken, Fennel & Carrots in Light Broth Sauce",
+  "category": "Main",
+  "protein": "Chicken",
+  "servings": 4,
+  "time": "40 min",
+  "tags": ["carb-load", "light", "no raw onion"],
+  "summary": "A pre-long-run pasta of seared chicken thighs and softened fennel, carrots, and onion tossed with orecchiette in a light chicken broth sauce.",
+  "ingredients": [
+    { "q": 12, "u": "oz", "i": "orecchiette" },
+    { "q": 1, "u": "lb", "i": "boneless skinless chicken thighs, trimmed of visible fat and cut into small bite-size pieces" },
+    { "q": 1.5, "u": "tbsp", "i": "olive oil" },
+    { "q": 2, "u": "", "i": "medium carrots, small dice" },
+    { "q": 1, "u": "", "i": "small fennel bulb, finely diced (fronds saved)" },
+    { "q": 0.5, "u": "", "i": "yellow onion, finely diced" },
+    { "q": 0.5, "u": "tsp", "i": "dried thyme or oregano" },
+    { "q": 1.5, "u": "cup", "i": "chicken broth" },
+    { "q": 1, "u": "tsp", "i": "salt, plus more for the pasta water" },
+    { "q": 0.25, "u": "tsp", "i": "black pepper" },
+    { "q": 1, "u": "tbsp", "i": "lemon juice" },
+    { "q": 0.25, "u": "cup", "i": "grated Parmesan" },
+    { "q": 1, "u": "cup", "i": "baby arugula (optional)" }
+  ],
+  "steps": [
+    "Pat the chicken dry and season with half the salt and the black pepper. Heat the olive oil in a large, wide skillet over medium-high heat and cook the chicken until browned and cooked through, about 7 minutes. Move it to a plate.",
+    "In the same pan, add the carrots, fennel, and onion with the dried thyme or oregano and the remaining salt. Cook over medium heat, stirring, until very tender, about 9 minutes.",
+    "Pour in the chicken broth, scraping up the browned bits. Simmer until slightly reduced, about 5 minutes, then return the chicken and its juices to the pan.",
+    "Meanwhile, boil the orecchiette in well-salted water until al dente, about 10 minutes, following package time. Scoop out about a cup of pasta water before draining.",
+    "Add the drained pasta to the skillet with a splash of pasta water and toss until the sauce lightly coats it. Off the heat, stir in the lemon juice and Parmesan, then fold in the arugula just until it wilts. Top with chopped fennel fronds."
+  ],
+  "notes": "Built for the night before a long run: lean protein and well-cooked, low-fiber vegetables keep things easy on the stomach. Skip the arugula and go easy on the Parmesan if your stomach is sensitive before a run. Salt the pasta water generously for extra sodium.",
+  "pairs": []
+},
+{
+  "id": "skillet-cheeseburger-pasta",
+  "title": "Skillet Cheeseburger Pasta",
+  "category": "Main",
+  "protein": "Beef",
+  "servings": 4,
+  "time": "30 min",
+  "tags": ["one-pan", "comfort", "kid-approved", "no raw onion"],
+  "summary": "A from-scratch, one-pan Hamburger Helper with a creamy cheddar sauce and nutty depth from Comté.",
+  "ingredients": [
+    { "q": 1, "u": "lb", "i": "ground beef" },
+    { "q": 1, "u": "", "i": "medium onion, diced" },
+    { "q": 3, "u": "", "i": "garlic cloves, minced" },
+    { "q": 2, "u": "cups", "i": "beef broth" },
+    { "q": 1, "u": "cup", "i": "water" },
+    { "q": 8, "u": "oz", "i": "pasta (rotini, elbows, or shells)" },
+    { "q": 1, "u": "cup", "i": "shredded cheddar" },
+    { "q": 2, "u": "oz", "i": "Comté, finely grated or crumbled" },
+    { "q": 2, "u": "tbsp", "i": "tomato paste" },
+    { "q": 1, "u": "tbsp", "i": "Worcestershire sauce" },
+    { "q": 1, "u": "tsp", "i": "smoked paprika" },
+    { "q": null, "u": "", "i": "salt and black pepper (a pinch, plus more to taste)" }
+  ],
+  "steps": [
+    "In a large skillet or wide saucepan over medium-high heat, brown the ground beef, breaking it up as it cooks, and season with a pinch of salt and pepper; once browned, tilt the pan and spoon off excess fat, leaving about a tablespoon.",
+    "Add the diced onion and cook for 4 to 5 minutes until softened and a little golden, then add the garlic and cook 1 minute more.",
+    "Stir in the tomato paste, Worcestershire sauce, and smoked paprika, coating everything well, and cook for about 1 minute to deepen the flavor.",
+    "Pour in the beef broth and water and bring to a boil, then add the pasta, stir, reduce to a steady simmer, cover, and cook, stirring occasionally, until the pasta is just tender and most of the liquid is absorbed, about 10 to 12 minutes.",
+    "Remove from heat and stir in the cheddar and Comté a handful at a time, letting each addition melt before adding more, until the sauce is glossy and creamy; taste and adjust salt and pepper."
+  ],
+  "notes": "Use a pasta shape with nooks (rotini, shells, elbows) to catch the sauce, and avoid long noodles. Grate the Comté fine so it melts smoothly into the cheddar. If it tightens up too much, splash in a bit more broth when adding the cheese. Low-FODMAP swap: replace the onion with scallion greens added at the end, and use garlic-infused oil instead of fresh garlic.",
+  "pairs": [
+    { "id": "arugula-apple-salad", "why": "Peppery, crisp salad cuts the rich, cheesy pasta" }
+  ]
+}
+]
